@@ -1,5 +1,8 @@
 # Application Showing User's Location
 
+## Prerequisites
+- Xcode 13.0
+
 ## Architecture
 - SwiftUI
 - iOS 15
